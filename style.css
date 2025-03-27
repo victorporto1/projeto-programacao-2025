@@ -1,5 +1,6 @@
 /*style.css */
 h2 {
-    color: crimson;
+    color: rgb(0, 0, 0);
+    background-color: rgb(219, 167, 150);
     text-align: center;
 }
